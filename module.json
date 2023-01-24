@@ -1,0 +1,21 @@
+{
+  "name": "abandoned-keep",
+  "title": "Abandoned Keep",
+  "author": "Seafootgames",
+  "version": "1.0.0",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "10",
+  "packs": [
+    {
+      "name": "abandoned-keep",
+      "label": "Abandoned Keep",
+      "path": "packs/abandoned-keep.db",
+      "type": "Scene"
+    }
+
+  ],
+  "url": "https://drive.google.com/drive/folders/1-OCzDU7T70nQTtBTQwUxsLqaAk66TKu_?usp=sharing",
+  "manifest": "https://drive.google.com/file/d/1CxU-ctqtT-fYi5knLgMb_wmJFm9irjRa/view?usp=sharing",
+  "download": "https://drive.google.com/file/d/1r7pjFuCxXMhmmnDoos098WWdDkGzP2r_/view?usp=share_link"
+
+}
